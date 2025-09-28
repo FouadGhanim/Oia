@@ -50,7 +50,7 @@ const Header: React.FC = () => {
         <div className="flex items-center justify-between h-20">
           <div className="flex-shrink-0">
             <NavLink to="/" onClick={closeMenu}>
-              <img className="h-12 w-auto" src="/clients/4.png" alt="OIA Agency Logo" />
+              <img className="h-12 w-auto" src="https://res.cloudinary.com/deo7z8ogn/image/upload/v1759070008/OIA_Main_Logo_grtidy.png" alt="OIA Agency Logo" />
             </NavLink>
           </div>
           <div className="hidden md:block">
