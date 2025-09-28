@@ -89,16 +89,16 @@ const initialContent: Content = {
       title: 'Your Vision, <span class="block">Engineered for Excellence.</span>',
       subtitle: 'OIA is a premier software house and marketing agency in Alexandria, Egypt. We transform ideas into powerful digital realities.',
       sliderImages: [
-        'https://picsum.photos/seed/slide1/1920/1080?grayscale&blur=2',
-        'https://picsum.photos/seed/slide2/1920/1080?grayscale&blur=2',
-        'https://picsum.photos/seed/slide3/1920/1080?grayscale&blur=2',
+        'https://res.cloudinary.com/deo7z8ogn/image/upload/v1759073527/pexels-goumbik-577210_os5mwp.jpg',
+        'https://res.cloudinary.com/deo7z8ogn/image/upload/v1759073523/pexels-technobulka-10816120_jwig4i.jpg',
+        'https://res.cloudinary.com/deo7z8ogn/image/upload/v1759073527/pexels-artempodrez-5716054_mp2xz6.jpg',
       ]
     },
     about: {
         title: 'Who We Are',
         content1: "Founded in the heart of Alexandria, OIA is driven by a passion for technology and a commitment to our clients' success. We are a collective of expert designers, developers, and marketers dedicated to delivering bespoke solutions that drive growth and create lasting value.",
         content2: "Our approach is collaborative and transparent. We work closely with you to understand your unique challenges and goals, ensuring the final product is not just functional, but exceptional.",
-        imageUrl: "https://picsum.photos/800/600?grayscale"
+        imageUrl: "https://res.cloudinary.com/deo7z8ogn/image/upload/v1759073511/ChatGPT_Image_Sep_28_2025_03_24_47_PM_trq2hr.png"
     }
   },
   services: {
