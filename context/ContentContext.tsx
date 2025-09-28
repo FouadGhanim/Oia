@@ -117,10 +117,10 @@ const initialContent: Content = {
       mainHeading: "Trusted by Industry Leaders",
       subHeading: "We are proud to have collaborated with a diverse range of businesses, helping them achieve their digital ambitions.",
       clientList: [
-        { name: 'Innovate Corp', logo: '/Clients/Images.png' },
-        { name: 'NextGen Solutions', logo: '/Clients/Logo.png' },
-        { name: 'Market Movers', logo: '/Clients/Logo.svg' },
-        { name: 'Quantum Leap', logo: '/Clients/Tech Academy Logo.png' },
+        { name: 'Innovate Corp', logo: '/clients/1.png' },
+        { name: 'NextGen Solutions', logo: '/clients/2.png' },
+        { name: 'Market Movers', logo: '/clients/3.svg' },
+        { name: 'Quantum Leap', logo: '/clients/5.png' },
         
       ],
       testimonials: [
